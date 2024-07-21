@@ -1,3 +1,6 @@
+
+// utilize o node js para visualizar as alterações por ser um arquivo js 
+
 let input = `
     C;V;can of coke
     S;M;sweatTea()
